@@ -17,6 +17,6 @@ CREDITS <br />
 <br />
 [Dortania](https://github.com/dortania) For the [install Guide](https://dortania.github.io/OpenCore-Install-Guide/) <br />
 [Apple](https://github.com/apple) For macOS <br />
-[Corpnewt](https://github.com/corpnewt) [ProperTree](https://github.com/corpnewt/ProperTree) for configuring the config.plist <br />
+[Corpnewt](https://github.com/corpnewt) [ProperTree](https://github.com/corpnewt/ProperTree) for configuring the config.plist and [genSMBIOS](https://github.com/corpnewt/GenSMBIOS) <br />
 [Acidanthera](https://github.com/acidanthera) For the [Opencore bootloader](https://github.com/acidanthera/OpenCorePkg) <br />
 And many more for the Kernel Extentions used to boot the machine!
