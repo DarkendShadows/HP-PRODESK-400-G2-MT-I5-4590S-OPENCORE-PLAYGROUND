@@ -12,11 +12,13 @@ RAM: 8GB @ 1333Mhz <br />
 HDD: 1TB 5400RPM <br />
 Mobo: MS-7680 HP <br />
 
-
 CREDITS <br />
 <br />
 [Dortania](https://github.com/dortania) For the [install Guide](https://dortania.github.io/OpenCore-Install-Guide/) <br />
 [Apple](https://github.com/apple) For macOS <br />
 [Corpnewt](https://github.com/corpnewt) [ProperTree](https://github.com/corpnewt/ProperTree) for configuring the config.plist and [genSMBIOS](https://github.com/corpnewt/GenSMBIOS) <br />
 [Acidanthera](https://github.com/acidanthera) For the [Opencore bootloader](https://github.com/acidanthera/OpenCorePkg) <br />
-And many more for the Kernel Extentions used to boot the machine!
+And many more for the Kernel Extentions used to boot the machine!<br />
+<br />
+First boot! <br />
+![Screen Shot 2022-03-07 at 17 10 19](https://user-images.githubusercontent.com/36078103/157072930-484087fa-310d-4524-88ca-436db481e66f.png)<br />
