@@ -5,6 +5,9 @@ Playground for experimenting with macOS through Opencore bootloader on a HP ProD
 If you're going to use this repo to try and install macOS on your own HP ProDesk 400 G2 MT then generate new SMBIOS data with [genSMBIOS](https://github.com/corpnewt/GenSMBIOS)
 
 
+OpenCore version: 0.7.8
+
+
 Machine specs: <br />
 CPU: Intel Core i5 4590s <br />
 GPU: Intel HD Graphics 4600 <br />
